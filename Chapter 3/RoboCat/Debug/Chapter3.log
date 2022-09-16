@@ -1,0 +1,5 @@
+﻿  Main.cpp
+G:\MultiplayerBook\Chapter 3\RoboCat\Src\Main.cpp(8,112): warning C4100: “nCmdShow”: 未引用的形参
+G:\MultiplayerBook\Chapter 3\RoboCat\Src\Main.cpp(8,36): warning C4100: “hInstance”: 未引用的形参
+Main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Chapter3.vcxproj -> G:\MultiplayerBook\Chapter 3\RoboCat\Bin\Debug\Chapter3.exe
